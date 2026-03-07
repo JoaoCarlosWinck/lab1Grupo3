@@ -1,2 +1,3 @@
 Joabe: https://github.com/Joabe-Albino/lab1
 Joao: https://github.com/JoaoCarlosWinck/lab1
+Pedro: https://github.com/Pedro-Henrique-Piske/lab1
